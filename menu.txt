@@ -1,0 +1,30 @@
+TankGame
+
++ move tank
+ up		:  move tank up 		上に移動
+ down		:  move tank down		下に移動
+ left		:  move tank left		左に移動
+ right		:  move tank right		右に移動
+
++ gun Tank
+ g		:  decrease gun angle	ガンの角度を減る
+ G		:  increase gun angle	ガンの角度を増える
+
++ bomb tank
+ s		:  shot generally bomb				普通の爆弾を出す
+ m		:  shot auto bomb				自動の爆弾を出す
+ v		:  decrease generally bomb velocity		普通の爆弾の速度を減る
+ V		:  increase generally bomb velocity		普通の爆弾の速度を増える
+
++ set environment
+ f		:  decrease fog density				
+ F		:  increase fog density
+
++ view
+ F1		:  view from after tank				タンクの後ろの近い点から見る
+ F2		:  view from after tank but high position	タンクの後ろの遠い点から見る
+ F3		:  view from multi direction			多い点から見る
+
++ game
+ r		:  reset game		自分のタンクが死んだら、も一度ゲームをしたい場合に
+ ESC		:  exit game		ゲームを終了
