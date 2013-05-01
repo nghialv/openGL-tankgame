@@ -11,4 +11,4 @@ Demo
 #### image
 ![image](https://raw.github.com/nghialv2607/openGL-tankgame/master/readmeData/image.png)
 #### shot airplane with automatic rocket
-![image](https://raw.github.com/nghialv2607/openGL-tankgame/master/readmeData/roket.png)
+![image](https://raw.github.com/nghialv2607/openGL-tankgame/master/readmeData/rocket.png)
